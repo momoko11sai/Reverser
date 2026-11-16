@@ -1,4 +1,3 @@
-# -mp4
 # video-reverse
 iPhoneで撮った動画を逆再生にするスクリプト。
 
